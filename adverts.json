@@ -42,9 +42,15 @@
     "adverts": ["blackflag.ans"]
   },
   {
-    "bbs_name": "Tiny\'s BBS",
+    "bbs_name": "Tiny's BBS",
     "sysop": "Tiny",
     "telnet": "tinysbbs.com",
     "adverts": ["tinysbbs.ans"]
-  }
-]
+  },
+  {
+    "bbs_name": "fluph",
+    "sysop": "skuz",
+    "telnet": "fluph.darkech.org",
+    "adverts": ["fluph1.ans"]
+  },
+[
